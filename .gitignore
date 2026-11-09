@@ -1,0 +1,10 @@
+# Arquivos locais (nao enviar ao GitHub)
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.cache/
+.DS_Store
+.vscode/
+.idea/
